@@ -1,0 +1,2 @@
+1) the barricades disappearing at once sometimes
+2) few bullets of the big alien ship left on the screen after it is destroyed
